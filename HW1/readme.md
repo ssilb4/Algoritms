@@ -32,6 +32,8 @@ HW #1
 >
 
   (1) 예상한 것과 비슷하게 기본 Quick Sort에 비해 Median-of-three Quick Sort가 평균적으로 약간 더 빨랐지만 거의 비슷했습니다.
+  
   (2) Odd-Even Sort의 경우에는 k가 작을 때는 Quick Sort에 비해 느렸지만 k가 많아지면 훨씬 더 빨랐습니다.
+  
   (3) QuickSort의 경우 평균 nlogn 정도의 속도로 조금씩 증가량이 점점 늘어난다면, Odd-Even Sort는 거의 n 정도의 속도여서 그래프 모양이 직선이 됩니다.
 
